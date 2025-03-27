@@ -1,2 +1,2 @@
 # New project
-This project is from local machine.
+This project is from local machine...
